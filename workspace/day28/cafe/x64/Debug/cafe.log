@@ -1,0 +1,12 @@
+﻿  cafe.c
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(25,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(25,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(47,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(47,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(58,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(58,13): message : 이 인수는 버퍼 크기로 사용됩니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(84,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(84,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(101,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\online Lecture\C\C\workspace\day28\cafe\cafe.c(101,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+  cafe.vcxproj -> E:\online Lecture\C\C\workspace\day28\x64\Debug\cafe.exe
